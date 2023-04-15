@@ -36,8 +36,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-[![Next][Next.js]][Next-url]
-[![React][React.js]][React-url]
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Tailwind][TailwindCSS]][Tailwind-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,3 +122,5 @@ Project Link: [https://github.com/dinklang/RenderingPatterns](https://github.com
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[Tailwind-url]: https://tailwindcss.com/
+[TailwindCSS]: https://img.shields.io/badge/tailwindcss-A6ADF2?style=for-the-badge&logo=tailwindcss
