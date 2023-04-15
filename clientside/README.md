@@ -2,13 +2,18 @@ This is the Client-Side rendering pattern
 
 ## Getting Started
 
-To run the development server do this:
+You already know:
 
 ```bash
-npm run dev
-# or
 yarn dev
-# or
-pnpm dev
 ```
+
+## What is happening?
+
+* NextJS automatically tries to server-side render the page.
+
+* Because of the way we implemented Details in line 34. We wait until the first render and useEffect run.
+
+* This can be demonstrated going to page source to view the empty 'shell' we receive.
+
 
