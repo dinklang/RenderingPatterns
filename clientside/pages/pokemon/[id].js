@@ -32,7 +32,7 @@ export default function Details() {
 
     // we get an error when trying to display image of null source
     if (!pokemon) {
-        return null
+        return (<div>Loading...</div>)
     }
 
     // src={`https://jherr-pokemon.s3.us-west-1.amazonaws.com/${pokemon.image}`}>
